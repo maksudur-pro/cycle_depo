@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "27 T GALACTIC",
+    "badge": "E-BIKE",
+    "image": "https://i.ibb.co/mbYvYrB/35344f9d90fd6691e17e693913461883-1.png",
+    "price": "₹ 5,500 /",
+    "status": "Book"
+  },
+  {
+    "id": 2,
+    "name": "THORN MTB",
+    "badge": "MTB",
+    "image": "https://i.ibb.co/0Q7knB3/4c21c7e4ee17948fd59404d07d312450.png",
+    "price": "₹ 2,500 /",
+    "status": "Book"
+  },
+  {
+    "id": 3,
+    "name": "HERO CELARO",
+    "badge": "ATB",
+    "image": "https://i.ibb.co/2SnQ2BJ/399120957ac580333a42c49942d9d682.png",
+    "price": "₹ 3,500 /",
+    "status": "Book"
+  },
+  {
+    "id": 4,
+    "name": "CONTINO ETB 100",
+    "badge": "E-BIKE",
+    "image": "https://i.ibb.co/YcLwHMP/64e8e7299fe26243939e0d15799696d0.png",
+    "price": "₹ 5,500 /",
+    "status": "PRE BOOK",
+    "available": "Available from 16th March"
+  }
+]

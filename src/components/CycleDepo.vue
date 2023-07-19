@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-[#36314C] ml-7 mb-5 text-5xl font-Roboto font-semibold">
+  <h1 class="text-[#36314C] ml-7 mb-5 text-3xl font-Roboto font-medium">
     Why Cycledepo ?
   </h1>
   <div class="lg:flex md:flex gap-6 p-8">
