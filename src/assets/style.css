@@ -7,3 +7,7 @@
 .fontstyle {
   @apply font-Roboto text-xl font-bold text-[#211C37] leading-6;
 }
+
+.round {
+  border-radius: 0px 100px 100px 100px;
+}
