@@ -7,8 +7,7 @@
       <div class="flex items-center">
         <h1 class="mr-6 font-Roboto">View Full Catalogue</h1>
         <div class="flex items-center">
-          <p>+</p>
-          <p>_</p>
+          <img src="https://i.ibb.co/NmhFHBB/Component-3.png" alt="" />
         </div>
       </div>
     </div>

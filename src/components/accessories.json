@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "1 meter Bicycle Locking System with 2 keys",
+    "badge": "Bestseller",
+    "image": "https://i.ibb.co/MD9b6zr/Rectangle-37.png",
+    "price": "₹1,200",
+    "color": [
+      {
+        "color1": "https://i.ibb.co/KxrR11L/Group-57-2.png",
+        "color2": "https://i.ibb.co/gjYmhLL/Ellipse-21.png",
+        "color3": "https://i.ibb.co/VYbVVQn/Ellipse-24-1.png"
+      }
+    ],
+    "status": "View Details"
+  },
+  {
+    "id": 2,
+    "name": "Digital Horn for Cycle with Batteries",
+    "badge": "Bestseller",
+    "image": "https://i.ibb.co/yN98pz4/Rectangle-37-1.png",
+    "price": "₹1,200",
+    "color": [
+      {
+        "color1": "https://i.ibb.co/8DS4bRP/Group-57-1.png"
+      }
+    ],
+    "status": "View Details"
+  },
+  {
+    "id": 3,
+    "name": "Extra Cushion Cycle Seat",
+    "badge": "Bestseller",
+    "image": "https://i.ibb.co/SvyrcPq/Rectangle-37-2.png",
+    "price": "₹1,200",
+    "color": [
+      {
+        "color1": "https://i.ibb.co/8DS4bRP/Group-57-1.png"
+      }
+    ],
+    "status": "View Details"
+  },
+  {
+    "id": 4,
+    "name": "Metallic Red Sipper Bottle",
+    "badge": "Bestseller",
+    "image": "https://i.ibb.co/6yjyMD8/Rectangle-37-3.png",
+    "price": "₹1,200",
+    "color": [
+      {
+        "color1": "https://i.ibb.co/jMps996/Group-57.png",
+        "color2": "https://i.ibb.co/fSp5Ym0/Ellipse-24.png",
+        "color3": "https://i.ibb.co/gjYmhLL/Ellipse-21.png"
+      }
+    ],
+    "status": "View Details"
+  }
+]
